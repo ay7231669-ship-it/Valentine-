@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Our Memories 📸</title>
+<style>
+body{
+  font-family:Arial;
+  background:#ffe6eb;
+  text-align:center;
+  padding:20px;
+}
+.gallery{
+  display:flex;
+  justify-content:center;
+  gap:15px;
+  flex-wrap:wrap;
+}
+img{
+  width:200px;
+  border-radius:15px;
+  box-shadow:0 4px 10px rgba(0,0,0,0.2);
+}
+a{
+  display:inline-block;margin-top:20px;
+  padding:10px 20px;background:#ff4d6d;
+  color:white;text-decoration:none;border-radius:20px;
+}
+</style>
+</head>
+<body>
+<h1>Some Special Moments 💞</h1>
+
+<div class="gallery">
+  <img src="photo1.jpg">
+  <img src="photo2.jpg">
+  <img src="photo3.jpg">
+</div>
+
+<a href="surprise.html">Final Surprise 🎁</a>
+</body>
+</html>

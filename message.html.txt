@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Message 💌</title>
+<style>
+body{
+  font-family:Arial;
+  background:#ffd9e2;
+  display:flex; justify-content:center; align-items:center;
+  height:100vh; text-align:center;
+}
+.card{background:white;padding:30px;border-radius:20px;max-width:400px;}
+a{
+  display:inline-block;margin-top:15px;
+  padding:10px 20px;background:#ff4d6d;
+  color:white;text-decoration:none;border-radius:20px;
+}
+</style>
+</head>
+<body>
+<div class="card">
+  <h2>Babu 💖</h2>
+  <p>You don’t know how much your smile means to me.</p>
+  <p>Every little moment with you feels special.</p>
+  <a href="memories.html">See Memories 📸</a>
+</div>
+</body>
+</html>

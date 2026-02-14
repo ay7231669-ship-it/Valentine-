@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>For Babu ❤️</title>
+<style>
+body{
+  font-family:Arial;
+  background:#ffe6eb;
+  display:flex; justify-content:center; align-items:center;
+  height:100vh; text-align:center;
+}
+.card{background:white;padding:30px;border-radius:20px;}
+a{
+  display:inline-block;margin-top:15px;
+  padding:10px 20px;background:#ff4d6d;
+  color:white;text-decoration:none;border-radius:20px;
+}
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>Hi Babu ❤️</h1>
+  <p>I made something from my heart for you ✨</p>
+  <a href="message.html">Open 💌</a>
+</div>
+</body>
+</html>
